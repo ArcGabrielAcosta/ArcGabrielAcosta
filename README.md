@@ -39,12 +39,7 @@ Escuela Secundaria Luis Federico Leloir — *2015 – 2017*
 
 ---
 
-[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30"/>](https://linkedin.com/in/gabriel-acosta-208212326)
+## Contacto
 
-[<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30"/>](mailto:gabriel.hernan.acosta@outlook.com)
-
-[<img src="https://cdn-icons-png.flaticon.com/512/732/732223.png" width="30"/>](mailto:gabriel.hernan.acosta3@gmail.com)
-
-Correo electrónico [gabriel.hernan.acosta@outlook.com](mailto:gabriel.hernan.acosta@outlook.com)  
-LinkedIN [LinkedIn](https://linkedin.com/in/gabriel-acosta-208212326)
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30"/>](https://linkedin.com/in/gabriel-acosta-208212326) | [<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30"/>](mailto:gabriel.hernan.acosta@outlook.com) | [<img src="https://cdn-icons-png.flaticon.com/512/732/732223.png" width="30"/>](mailto:gabriel.hernan.acosta3@gmail.com)
 
