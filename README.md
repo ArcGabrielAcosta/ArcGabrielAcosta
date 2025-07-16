@@ -1,11 +1,9 @@
-# 👨‍💻 Gabriel Hernán Acosta
+# Gabriel Hernán Acosta
 
-**Backend Developer | AI Integration Enthusiast | WebSocket & API Specialist**
+**Backend Developer**
 
-📍 Mar del Plata, Argentina  
-📞 +54 223 583-5707  
-📧 [gabriel.hernan.acosta@outlook.com](mailto:gabriel.hernan.acosta@outlook.com)  
-🔗 [LinkedIn](https://linkedin.com/in/gabriel-acosta-208212326)
+Correo electrónico [gabriel.hernan.acosta@outlook.com](mailto:gabriel.hernan.acosta@outlook.com)  
+LinkedIN [LinkedIn](https://linkedin.com/in/gabriel-acosta-208212326)
 
 ---
 
@@ -13,16 +11,7 @@
 
 **Backend Developer — Nullius Software Startup**  
 *Julio 2025 – Actualidad*  
-- Desarrollo de funciones para integración de IA usando React y ShadCN UI  
-- Implementación de WebSocket para comunicación en tiempo real  
-- Base de datos en la nube con Supabase  
-- Integración segura con Keycloak  
-- Documentación técnica clara y profesional  
-
-**Encargado de Bodegas — Pesquera Comercial S.A.**  
-*Octubre 2022 – Noviembre 2023*  
-- Control y estiba de carga congelada en buque pesquero  
-- Supervisión operativa a bordo del Navegantes
+- 
 
 ---
 
