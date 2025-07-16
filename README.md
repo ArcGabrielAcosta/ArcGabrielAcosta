@@ -7,44 +7,32 @@ LinkedIN [LinkedIn](https://linkedin.com/in/gabriel-acosta-208212326)
 
 ---
 
-## 💼 Experiencia Laboral
+## Perfil Profesional
 
-**Backend Developer — Nullius Software Startup**  
-*Julio 2025 – Actualidad*  
-- 
+Desarrollador Backend con experiencia en APIs REST, autenticación, bases de datos y actualmente desarrollando funcionalidades con integración de inteligencia artificial en sistemas de ventas.
 
 ---
 
-## 🧠 Perfil Profesional
+## Habilidades Técnicas
 
-Desarrollador Backend con enfoque en comunicaciones en tiempo real, integración de inteligencia artificial y diseño de interfaces modulares. Actualmente cursando la carrera de Analista de Sistemas, con gran interés en arquitecturas escalables y tecnologías modernas como Docker, Supabase y TypeScript.
+**Lenguajes:**
+Java | Python | PHP | TypeScript  
 
----
+**Frameworks & Librerías:**
+Laravel | Laravel Breeze | Next.js | React | TailwindCSS | ShadCN UI  
 
-## 🛠️ Habilidades Técnicas
+**Backend & DevOps:**
+REST APIs | Keycloak | Docker  
 
-**Lenguajes:**  
-Java (vanilla), Python, PHP (vanilla), TypeScript  
-
-**Frameworks & Librerías:**  
-Laravel, Laravel Breeze, Next.js, React, TailwindCSS, ShadCN UI  
-
-**Backend & DevOps:**  
-REST APIs, WebSocket, Keycloak, Docker  
-
-**Bases de Datos:**  
-MySQL, Oracle, Supabase  
-
-**Herramientas:**  
-Git, JetBrains IDEs (WebStorm, PhpStorm, IntelliJ IDEA, DataGrip)  
-Documentación técnica profesional, control de versiones
+**Bases de Datos:**
+MySQL | Oracle | PostgreSQL
 
 **Idiomas:**  
 🇪🇸 Español (nativo) | 🇬🇧 Inglés (intermedio)
 
 ---
 
-## 🎓 Educación
+## Educación
 
 **Diplomatura en Inteligencia Artificial**  
 Universidad de Palermo — *Agosto 2024 – Diciembre 2024*  
