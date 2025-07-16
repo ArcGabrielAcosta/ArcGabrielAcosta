@@ -1,5 +1,3 @@
-# Gabriel Hernán Acosta
-
 ## Perfil Profesional
 
 Desarrollador Backend con experiencia en APIs REST, autenticación, bases de datos y actualmente desarrollando funcionalidades con integración de inteligencia artificial en sistemas de ventas.
