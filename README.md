@@ -1,12 +1,5 @@
 # Gabriel Hernán Acosta
 
-**Backend Developer**
-
-Correo electrónico [gabriel.hernan.acosta@outlook.com](mailto:gabriel.hernan.acosta@outlook.com)  
-LinkedIN [LinkedIn](https://linkedin.com/in/gabriel-acosta-208212326)
-
----
-
 ## Perfil Profesional
 
 Desarrollador Backend con experiencia en APIs REST, autenticación, bases de datos y actualmente desarrollando funcionalidades con integración de inteligencia artificial en sistemas de ventas.
@@ -45,3 +38,15 @@ EFOCAPEMM — *2021*
 
 **Bachillerato en Ciencias Naturales**  
 Escuela Secundaria Luis Federico Leloir — *2015 – 2017*
+
+---
+
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30"/>](https://linkedin.com/in/gabriel-acosta-208212326)
+
+[<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30"/>](mailto:gabriel.hernan.acosta@outlook.com)
+
+[<img src="https://cdn-icons-png.flaticon.com/512/732/732223.png" width="30"/>](mailto:gabriel.hernan.acosta3@gmail.com)
+
+Correo electrónico [gabriel.hernan.acosta@outlook.com](mailto:gabriel.hernan.acosta@outlook.com)  
+LinkedIN [LinkedIn](https://linkedin.com/in/gabriel-acosta-208212326)
+
