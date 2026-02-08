@@ -1,41 +1,50 @@
-## Perfil Profesional
+## PROFESSIONAL PROFILE
 
-Desarrollador Backend con experiencia en APIs REST, autenticación, bases de datos y actualmente desarrollando funcionalidades con integración de inteligencia artificial en sistemas de ventas.
-
----
-
-## Habilidades Técnicas
-
-**Lenguajes:**
-Java | Python | PHP | TypeScript  
-
-**Frameworks & Librerías:**
-Laravel | Laravel Breeze | Next.js | React | TailwindCSS | ShadCN UI  
-
-**Backend & DevOps:**
-REST APIs | Keycloak | Docker  
-
-**Bases de Datos:**
-MySQL | Oracle | PostgreSQL
-
-**Idiomas:**  
-🇪🇸 Español (nativo) | 🇬🇧 Inglés (intermedio)
+I am a Systems Analyst and Backend Developer with a solid technical 
+foundation and a career shaped by curiosity, continuous improvement, and a 
+strong focus on clean architecture. Throughout my journey, I have worked with 
+a wide range of technologies —Java, Node.js, Express.js, MongoDB, TypeScript, 
+NestJS, TypeORM, PostgreSQL, Python, and Docker— always aiming to build 
+maintainable, scalable, and well‑structured solutions. 
 
 ---
 
-## Educación
+## SKILLS
 
-**Diplomatura en Inteligencia Artificial**  
-Universidad de Palermo — *Agosto 2024 – Diciembre 2024*  
+**Programming Languages:**
+Java | Python | Javascript | Typescript | 
+PHP 
 
-**Analista de Sistemas (en curso)**  
-Escuela de Arte Multimedial Da Vinci — *Desde Marzo 2024*  
+**Fullstack Development:**
+Laravel & Livewire | Java Vanilla | Next.js 
+& React.js | TailwindCSS 
 
-**Capacitación Náutica – Categoría Marinero**  
-EFOCAPEMM — *2021*
+**Backend Development:**
+Express.js | Nest.js | Java Vanilla | 
+Docker 
 
-**Bachillerato en Ciencias Naturales**  
-Escuela Secundaria Luis Federico Leloir — *2015 – 2017*
+**Databases:**
+MySQL | Oracle Database | PostgreSQL | 
+MongoDB 
+
+**Languages:**  
+🇪🇸 Español (native) | 🇬🇧 English (intermediate)
+
+---
+
+## EDUCATION 
+
+**Systems Analyst**  
+School of Multimedial Arts Da Vinci — *March 2024 – Present*  
+
+**Artificial Intelligence Diploma**  
+University of Palermo — *August 2024 – December 2024*  
+
+**Seaman Certification**  
+EFOCAPEMM — *March 2021 – December 2021*
+
+**Bachelor of Natural Sciences**  
+Luis Federico Leloir High School — *March 2015 – December 2017*
 
 ---
 
