@@ -1,11 +1,6 @@
 ## PROFESSIONAL PROFILE
 
-I am a Systems Analyst and Backend Developer with a solid technical 
-foundation and a career shaped by curiosity, continuous improvement, and a 
-strong focus on clean architecture. Throughout my journey, I have worked with 
-a wide range of technologies —Java, Node.js, Express.js, MongoDB, TypeScript, 
-NestJS, TypeORM, PostgreSQL, Python, and Docker— always aiming to build 
-maintainable, scalable, and well‑structured solutions. 
+I am a Systems Analyst and Backend Developer focused on building maintainable, scalable, and well structured backend architectures. I specialize in modular design, clean code practices, and the creation of clear and consistent internal workflows. My experience includes NestJS, TypeScript, TypeORM, PostgreSQL, and event driven logic, always prioritizing clarity, maintainability, and long term scalability in every module I design or refactor. 
 
 ---
 
@@ -25,7 +20,10 @@ Docker
 
 **Databases:**
 MySQL | Oracle Database | PostgreSQL | 
-MongoDB 
+MongoDB
+
+**Tools & Practices:**
+Clean Architecture | Modular Design | REST APIs | Event-driven workflows | Git | Swagger | DTO Validation
 
 **Languages:**  
 🇪🇸 Español (native) | 🇬🇧 English (intermediate)
