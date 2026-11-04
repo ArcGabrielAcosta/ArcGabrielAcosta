@@ -4,13 +4,6 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ArcGabrielAcosta&amp;show_icons=true&amp;include_all_commits=true&amp;hide_border=true&amp;hide_rank=true&amp;hide=stars,issues,contribs&amp;disable_animations=true&amp;custom_title=GitHub%20Activity&amp;title_color=F8FAFC&amp;text_color=CBD5E1&amp;icon_color=6DB33F&amp;bg_color=0D1117" />
-    <img alt="GitHub activity: total commits and pull requests" src="https://github-readme-stats.vercel.app/api?username=ArcGabrielAcosta&amp;show_icons=true&amp;include_all_commits=true&amp;hide_border=true&amp;hide_rank=true&amp;hide=stars,issues,contribs&amp;disable_animations=true&amp;custom_title=GitHub%20Activity&amp;title_color=0F172A&amp;text_color=334155&amp;icon_color=336791&amp;bg_color=ffffff" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArcGabrielAcosta&amp;theme=github_dark" />
     <img alt="Contributions over the last year" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArcGabrielAcosta&amp;theme=default" />
   </picture>
